@@ -1,4 +1,4 @@
-## Quick Install : 
+## Quick Install
 
 Download zip and unpack it or clone repo in the folder you want.
 
